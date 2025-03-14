@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Jadhav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/fdb33a07-78a0-46ab-bb7f-0054b41d65e5)">
+
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
