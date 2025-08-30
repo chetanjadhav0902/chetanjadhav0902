@@ -4,9 +4,10 @@
 
 
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🌱 I’m currently Working as a **React Native Developer**
 
 - 📫 Gmail **chetanjadhav0902@gmail.com**
+
 
 - ⚡ Fun fact **I think I am funny**
 
