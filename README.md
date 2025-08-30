@@ -3,7 +3,8 @@
 
 ---
 
-### 🌱 About Me
+###  About Me
+-  Working at **CBD IT Solutions Private Limited**
 - Currently working as a **React Native Developer**  
 - 💌 Reach me at: **[chetanjadhav0902@gmail.com](mailto:chetanjadhav0902@gmail.com)**  
 - ⚡ Fun fact: I think I am funny 😄  
